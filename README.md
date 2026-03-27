@@ -20,9 +20,37 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma)
 
 ## 📌 Projects
-- 🚗 Timeless - Watch sales platform
-- 📊 Dashboard App
-- 🛒 E-commerce App
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Solven  
+Full-stack car listing platform  
+
+- Next.js + NestJS  
+- Dockerized deployment  
+- Clean responsive UI  
+
+🔗 [Live](#) | [Code](#)
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-commerce App  
+Modern shopping platform  
+
+- MERN Stack  
+- Payment integration  
+- Admin dashboard  
+
+🔗 [Live](#) | [Code](#)
+
+</td>
+</tr>
+</table>
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
