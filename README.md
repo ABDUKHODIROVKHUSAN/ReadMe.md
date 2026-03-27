@@ -10,7 +10,14 @@
 ## 🚀 Tech Stack
 
 ### 💻 Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,redux,tailwind,bootstrap)
+![HTML](https://img.shields.io/badge/HTML5-000?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?logo=css3)
+![SASS](https://img.shields.io/badge/SASS-000?logo=sass)
+![JS](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TS](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Next](https://img.shields.io/badge/Next.js-000?logo=next.js)
+
 
 ### ⚙️ Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql)
