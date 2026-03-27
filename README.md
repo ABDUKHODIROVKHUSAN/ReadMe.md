@@ -7,11 +7,16 @@
 - 🌱 Currently learning: Kubernetes / DevOps 
 - ⚡ Focus: Scalable web apps
 
-## 🛠 Tech Stack
-- Frontend: React, Next.js, Sass, Tailwind
-- Backend: Node.js, NestJS, Express
-- Database: MongoDB, DBeaver
-- DevOps: Docker (learning Kubernetes)
+## 🚀 Tech Stack
+
+### 💻 Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,next,redux,tailwind,bootstrap)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql)
+
+### 🛠 Tools & DevOps
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma)
 
 ## 📌 Projects
 - 🚗 Timeless - Watch sales platform
