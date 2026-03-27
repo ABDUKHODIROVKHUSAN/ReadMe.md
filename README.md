@@ -19,34 +19,36 @@
 ### 🛠 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma)
 
-## 📌 Projects
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚗 Solven  
-Full-stack car listing platform  
+### 🥇 Timeless — Core Platform  
+Scalable full-stack application built as a primary production-level project with modern architecture and clean UI.
 
-- Next.js + NestJS  
-- Dockerized deployment  
-- Clean responsive UI  
+- ⚙️ Stack: Next.js, NestJS, TypeScript  
+- 🎯 Focus: Performance, scalability, clean architecture  
+- 🔐 Authentication & protected routes  
+- 📱 Fully responsive design  
+- 🐳 Dockerized & deployed to VPS  
 
-🔗 [Live](#) | [Code](#)
+🔗 [Live Demo](#) | [Repository](#)
 
 </td>
 
 <td width="50%">
 
-### 🛒 E-commerce App  
-Modern shopping platform  
+### 🌸 Perfume — E-commerce Experience  
+Modern and elegant perfume store with a strong focus on UI/UX and smooth user interaction.
 
-- MERN Stack  
-- Payment integration  
-- Admin dashboard  
+- ⚙️ Stack: MERN (MongoDB, Express, React, Node.js)  
+- 🛒 Shopping cart & product management  
+- 💳 Ready for payment integration  
+- 🎨 Clean and attractive UI design  
 
-🔗 [Live](#) | [Code](#)
+🔗 [Live Demo](#) | [Repository](#)
 
 </td>
 </tr>
