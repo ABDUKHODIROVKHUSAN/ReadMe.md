@@ -29,3 +29,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
