@@ -24,3 +24,8 @@
 ## 📫 Contact
 - Email: officialabdukhodirov@email.com
 - 010-5691-6252
+
+- ![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
