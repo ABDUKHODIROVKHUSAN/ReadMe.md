@@ -19,6 +19,25 @@
 ### 🛠 Tools & DevOps
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma)
 
+## 🤖 Artificial Intelligence
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="50" alt="OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
 ## 🚀 Featured Projects
 
 <table>
